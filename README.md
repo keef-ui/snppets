@@ -1,4 +1,4 @@
-# snppets
+# eslint
 {
     "env": {
         "commonjs": true,
